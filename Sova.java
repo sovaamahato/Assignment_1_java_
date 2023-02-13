@@ -2,7 +2,7 @@ public class Sova{
     public static void main(String[] args){
         System.out.println("Name of the organization: Oraget street food\n\n");
         System.out.println("Address:");
-        System.out.println("----state: KM");
+        System.out.println("----State: KM");
         System.out.println("----Zip Code: 2304");
         System.out.println("----Country: Nepal\n\n");
         System.out.println("Contact Information:");
